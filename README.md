@@ -12,3 +12,5 @@ Utilización:
 
     Para mostrar el buscador de zonas, es necesario colocar un shortcode llamado '[muestra_recorrido]' en la entrada o página a editar.
     Con esto, el plugin mostrará un select con los barrios, y ademas una tabla. 
+
+Demo: https://recuperandovalor.cordoba.gob.ar/buscador
